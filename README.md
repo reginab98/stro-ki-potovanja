@@ -1,1 +1,1 @@
-# stro-ki-potovanja
+# stroski-potovanja
